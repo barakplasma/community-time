@@ -1,4 +1,7 @@
 # community-time
+
+![Node.js CI](https://github.com/barakplasma/community-time/workflows/Node.js%20CI/badge.svg)
+
 an easily sharable timer app.
 simple share a permalink for a given time.
 
