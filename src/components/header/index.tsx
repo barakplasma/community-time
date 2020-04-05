@@ -8,7 +8,7 @@ const Header: FunctionalComponent = () => {
             <h1>Community Time</h1>
             <nav>
                 <Link href="/">Home</Link>
-                <Link href="/timestamp">Timestamp: now</Link>
+                <Link href="/timestamp">Start timer</Link>
                 <Link href="/timestamp/new">Create new target timestamp</Link>
             </nav>
         </header>
