@@ -1,4 +1,6 @@
 # community-time
+an easily sharable timer app.
+simple share a permalink for a given time.
 
 ## CLI Commands
 *   `npm install`: Installs dependencies
